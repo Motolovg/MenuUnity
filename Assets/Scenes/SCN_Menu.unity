@@ -1746,7 +1746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5349154503082510402, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
       propertyPath: m_text
-      value: Exit
+      value: Sair
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
@@ -2087,7 +2087,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5349154503082510402, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
       propertyPath: m_text
-      value: Credits
+      value: Sobre
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
@@ -4177,7 +4177,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5349154503082510402, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
       propertyPath: m_text
-      value: 'Play '
+      value: Jogar
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80104c049cb304d4b8be572eaf750ddd, type: 3}
